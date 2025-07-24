@@ -68,16 +68,22 @@ The Employee Leave Management System (ELMS) is a comprehensive web application d
 - Monitor system activity
 
 ## Screenshots
+
 ### Login page
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a9f446f2-23e3-417a-8d7e-d3b29002fbf1" />
+
 ### Employee Dashboard
 <img width="941" height="477" alt="Image" src="https://github.com/user-attachments/assets/e439df60-67a3-472c-a390-c31d227cdf2f" />
+
 ### Leave Request Form
 <img width="944" height="470" alt="Image" src="https://github.com/user-attachments/assets/7626fe31-42fa-435a-bddf-97d02c0e6b16" />
+
 ### Manager Approval Dashboard
 <img width="949" height="483" alt="Image" src="https://github.com/user-attachments/assets/428422f7-beb8-4671-a380-9ceb386fc98c" />
+
 ### Reports Dashboard
 <img width="935" height="487" alt="Image" src="https://github.com/user-attachments/assets/601e78f5-3bbb-4541-8f22-e39c8c0a127c" />
+
 ## Database Schema
 The system uses the following database tables:
 - `User`: Stores employee information
